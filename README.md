@@ -1,4 +1,4 @@
-# Webcam-Profil Archivator
+# Archivebate Addon
 
 Der **Webcam-Profil Archivator** ist eine Browser-Erweiterung, die automatisch Profilseiten auf unterstützten Plattformen erkennt und eine schnelle Suche auf [Archivebate](https://archivebate.com) ermöglicht. Mit flexiblen Einstellungen und Subdomain-Support bietet die Erweiterung eine einfache Möglichkeit, Webcam-Profile zu archivieren oder wiederzufinden.
 
